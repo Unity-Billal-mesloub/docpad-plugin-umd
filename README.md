@@ -79,7 +79,7 @@ Install this DocPad plugin by entering <code>docpad install umd</code> into your
 
 <h2>History</h2>
 
-<a href="https://github.com/docpad/docpad-plugin-umd/blob/master/HISTORY.md#files">Discover the release history by heading on over to the <code>HISTORY.md</code> file.</a>
+<a href="https://github.com/Unity-Billal-mesloub/docpad-plugin-umd/blob/master/HISTORY.md#files">Discover the release history by heading on over to the <code>HISTORY.md</code> file.</a>
 
 <!-- /HISTORY -->
 
@@ -88,7 +88,7 @@ Install this DocPad plugin by entering <code>docpad install umd</code> into your
 
 <h2>Contribute</h2>
 
-<a href="https://github.com/docpad/docpad-plugin-umd/blob/master/CONTRIBUTING.md#files">Discover how you can contribute by heading on over to the <code>CONTRIBUTING.md</code> file.</a>
+<a href="https://github.com/Unity-Billal-mesloub/docpad-plugin-umd/blob/master/CONTRIBUTING.md#files">Discover how you can contribute by heading on over to the <code>CONTRIBUTING.md</code> file.</a>
 
 <!-- /CONTRIBUTE -->
 
@@ -101,7 +101,7 @@ Install this DocPad plugin by entering <code>docpad install umd</code> into your
 
 These amazing people are maintaining this project:
 
-<ul><li><a href="https://github.com/balupton">Benjamin Lupton</a> — <a href="https://github.com/docpad/docpad-plugin-umd/commits?author=balupton" title="View the GitHub contributions of Benjamin Lupton on repository docpad/docpad-plugin-umd">view contributions</a></li></ul>
+<ul><li><a href="https://github.com/Unity-Billal-mesloub">Benjamin Lupton</a> — <a href="https://github.com/Unity-Billal-mesloub/docpad-plugin-umd/commits?author=balupton" title="View the GitHub contributions of Benjamin Lupton on repository docpad/docpad-plugin-umd">view contributions</a></li></ul>
 
 <h3>Sponsors</h3>
 
@@ -125,10 +125,10 @@ Become a sponsor!
 
 These amazing people have contributed code to this project:
 
-<ul><li><a href="https://github.com/balupton">Benjamin Lupton</a> — <a href="https://github.com/docpad/docpad-plugin-umd/commits?author=balupton" title="View the GitHub contributions of Benjamin Lupton on repository docpad/docpad-plugin-umd">view contributions</a></li>
-<li><a href="https://github.com/RobLoach">Rob Loach</a> — <a href="https://github.com/docpad/docpad-plugin-umd/commits?author=RobLoach" title="View the GitHub contributions of Rob Loach on repository docpad/docpad-plugin-umd">view contributions</a></li></ul>
+<ul><li><a href="https://github.com/Unity-Billal-mesloub">Benjamin Lupton</a> — <a href="https://github.com/Unity-Billal-mesloub/docpad-plugin-umd/commits?author=balupton" title="View the GitHub contributions of Benjamin Lupton on repository docpad/docpad-plugin-umd">view contributions</a></li>
+<li><a href="https://github.com/RobLoach">Rob Loach</a> — <a href="https://github.com/Unity-Billal-mesloub/docpad-plugin-umd/commits?author=RobLoach" title="View the GitHub contributions of Rob Loach on repository docpad/docpad-plugin-umd">view contributions</a></li></ul>
 
-<a href="https://github.com/docpad/docpad-plugin-umd/blob/master/CONTRIBUTING.md#files">Discover how you can contribute by heading on over to the <code>CONTRIBUTING.md</code> file.</a>
+<a href="https://github.com/Unity-Billal-mesloub/docpad-plugin-umd/blob/master/CONTRIBUTING.md#files">Discover how you can contribute by heading on over to the <code>CONTRIBUTING.md</code> file.</a>
 
 <!-- /BACKERS -->
 
